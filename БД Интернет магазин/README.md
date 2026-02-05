@@ -1,7 +1,14 @@
-# БД Интернет магазин
+# БД Интернет-магазин
 ## Задания взяты из курса "Интерактивный тренажер по SQL" от [Stepik](https://stepik.org/63054)
 ## Логическая схема БД
 ![Логическая схема БД Интернет магазин](https://github.com/user-attachments/assets/34382eb0-19bc-443d-a755-18578bfed9b6)
+
+---
+
+## Наполнение таблиц
+
+<img width="719" height="870" alt="БД_ИМДанные" src="https://github.com/user-attachments/assets/e56f527d-b3ef-4ff3-92c7-41208a4973a9" />
+
 
 ---
 ## Задания
