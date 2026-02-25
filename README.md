@@ -30,9 +30,11 @@
 
 
 ### SQL
-- **Запросы:** SELECT, JOIN (INNER, LEFT, RIGHT), подзапросы, UNION
+- **Базовые запросы и фильтрация:** SELECT, FROM, WHERE, ORDER BY, LIMIT / FETCH, DISTINCT
+- **Объединение данных:** JOIN (INNER, LEFT, RIGHT, FULL, CROSS)
+- **Сложные выборки:** подзапросы, UNION (ALL)
 - **Агрегация:** GROUP BY, HAVING, агрегатные функции (COUNT, SUM, AVG, MIN, MAX)
-- **ML:** INSERT, UPDATE, DELETE
+- **DML:** INSERT, UPDATE, DELETE
 - **DDL:** CREATE, ALTER, DROP, индексы, внешние ключи
 
 ### Базы данных
